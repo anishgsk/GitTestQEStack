@@ -1,3 +1,4 @@
+//To get status for an employee
 String getStatus(String employeeID) {
 	return getStatusForEmployee(employeeID);
 }
