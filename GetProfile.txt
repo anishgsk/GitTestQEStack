@@ -1,0 +1,5 @@
+Profile getProfile(String empployeeID) {
+	Profile p = new Profile();
+
+	return p;
+}
