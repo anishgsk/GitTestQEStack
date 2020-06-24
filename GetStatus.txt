@@ -7,3 +7,8 @@ String getStatus(String employeeID) {
 void getMessage() {
 	//sdsfads
 }
+
+//change in master branch
+void getCTC() {
+	return CTC;
+}
