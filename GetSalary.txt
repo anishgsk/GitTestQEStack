@@ -1,0 +1,4 @@
+//CR1
+int getSalary(String empID) {
+	return salary;
+}
