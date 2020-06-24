@@ -2,3 +2,8 @@
 String getStatus(String employeeID) {
 	return getStatusForEmployee(employeeID);
 }
+
+//change in branch bug1
+void getMessage() {
+	//sdsfads
+}
