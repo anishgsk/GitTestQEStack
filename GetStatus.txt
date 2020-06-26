@@ -8,6 +8,8 @@ void getMessage() {
 	//sdsfads
 }
 
+//change by team mate on remote master to test push with conflict scenario
+
 //change in master branch
 void getCTC() {
 	return CTC;
