@@ -3,6 +3,8 @@ String getStatus(String employeeID) {
 	return getStatusForEmployee(employeeID);
 }
 
+//change at local master to test conflict in pull
+
 //change in branch bug1
 void getMessage() {
 	//sdsfads
